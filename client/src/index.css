@@ -18,7 +18,12 @@ body {
 
 .movie-director {
   padding: 4px 0;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
+}
+
+.movie-metascore {
+  padding: 4px 0;
+  font-size: 1.5rem;
 }
 
 .saved-list {
@@ -70,3 +75,4 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
